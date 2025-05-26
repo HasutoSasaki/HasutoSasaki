@@ -5,7 +5,7 @@ I am a second-year software engineer in Japan! 🍣
 
 <p align="left">
   <a href="https://github.com/HasutoSasaki/HasutoSasaki/">
-    <img src="https://komarev.com/ghpvc/?username=HasutoSasaki" alt="yutkat" />
+    <img src="https://komarev.com/ghpvc/?username=HasutoSasaki" alt="HasutoSasaki" />
   </a>
   <a href="https://github.com/HasutoSasaki">
     <img height="20" src="https://img.shields.io/github/followers/HasutoSasaki?label=follow&logo=github&style=flat" />
