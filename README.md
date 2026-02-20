@@ -1,7 +1,14 @@
 ## 👋 Hi! I'm Hasuto sasaki
 
 Welcome to my page!
-I am a second-year software engineer in Japan! 🍣
+
+I am currently a trainee in the Talent Development Office, transitioning my career from a Frontend Developer (2 years) to a Backend/Server-side Engineer.
+
+Tech Enthusiast: I have a deep love for Go, Neovim, and Low-level programming.
+
+Hobbies: Outside of coding, I'm passionate about Anime, Vintage clothing, and Weightlifting.
+
+Current Goal: Bench press 100kg! 🏋️‍♂️
 
 <p align="left">
   <a href="https://github.com/HasutoSasaki/HasutoSasaki/">
