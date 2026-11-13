@@ -18,7 +18,7 @@ Current Goal: Bench press 100kg! 🏋️‍♂️
     <img height="20" src="https://img.shields.io/github/followers/HasutoSasaki?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://x.com/vt23358">
-    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/vt23358">
+    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/hasuto00">
   </a>
 </p>
 
